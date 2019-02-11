@@ -1,6 +1,11 @@
-# loginandsignup
+#Flutter Login Screens
 
-A new Flutter project.
+| ![Screenshot](img/signup.png) Sign Up  | ![Screenshot](img/homepage.png) Home Page | ![Screenshot](img/login.png) Login |
+
+
+ ![Screenshots on Android and iOS](img/homePage.gif)
+
+
 
 ## Getting Started
 
