@@ -3,7 +3,7 @@
 | ![Screenshot](img/signup.png) Sign Up  | ![Screenshot](img/homepage.png) Home Page | ![Screenshot](img/login.png) Login |
 
 
- ![Screenshots on Android and iOS](img/homePage.gif)
+<p align="center"><img src="img/homePage.gif" width="350"></p>
 
 
 
