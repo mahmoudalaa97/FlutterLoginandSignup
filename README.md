@@ -1,6 +1,6 @@
 #Flutter Login Screens
 
-| ![Screenshot](img/signup.png) Sign Up  | ![Screenshot](img/homepage.png) Home Page | ![Screenshot](img/login.png) Login |
+| <img src="img/signup.png" width="350"> Sign Up  | <img src="img/homepage.png" width="350"> Home Page | <img src="img/login.png" width="350"> Login |
 
 
 <p align="center"><img src="img/homePage.gif" width="350"></p>
